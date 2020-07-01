@@ -27,4 +27,5 @@ I would like to think you  for reviewing my work (lapply() and sapply())
 +sapply(x, mean)
         a         b         c         d 
 +3.5000000 0.0454311 1.1199622 5.1071292
+-#thank you!
 
